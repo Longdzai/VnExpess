@@ -10,7 +10,7 @@ bước 0 : xác định chức năng có
  bước 2 : xác định kiểu url và .đuôi
  	2.1 : cắt lấy .đuôi 
  	2.2 :
-
+	ok
 */
 
 require_once 'config/connect.php';
